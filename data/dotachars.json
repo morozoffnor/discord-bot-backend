@@ -1,0 +1,178 @@
+{
+    "1": {
+        "name": "Abaddon",
+        "mainchar": "Strength"
+    },
+    "2": {
+        "name": "Alchemist",
+        "mainchar": "Strength"
+    },
+    "3": {
+        "name": "Axe",
+        "mainchar": "Strength"
+    },
+    "4": {
+        "name": "Beastmaster",
+        "mainchar": "Strength"
+    },
+    "5": {
+        "name": "Brewmaster",
+        "mainchar": "Strength"
+    },
+    "6": {
+        "name": "Bristleback",
+        "mainchar": "Strength"
+    },
+    "7": {
+        "name": "Centaur Warrunner",
+        "mainchar": "Strength"
+    },
+    "8": {
+        "name": "Chaos Knight",
+        "mainchar": "Strength"
+    },
+    "9": {
+        "name": "Clockwerk",
+        "mainchar": "Strength"
+    },
+    "10": {
+        "name": "Doom",
+        "mainchar": "Strength"
+    },
+    "11": {
+        "name": "Dragon Knight",
+        "mainchar": "Strength"
+    },
+    "12": {
+        "name": "Earth Spirit",
+        "mainchar": "Strength"
+    },
+    "13": {
+        "name": "Earthshaker",
+        "mainchar": "Strength"
+    },
+    "14": {
+        "name": "Elder Titan",
+        "mainchar": "Strength"
+    },
+    "15": {
+        "name": "Huskar",
+        "mainchar": "Strength"
+    },
+    "16": {
+        "name": "Io",
+        "mainchar": "Strength"
+    },
+    "17": {
+        "name": "Kunkka",
+        "mainchar": "Strength"
+    },
+    "18": {
+        "name": "Legion Commander",
+        "mainchar": "Strength"
+    },
+    "19": {
+        "name": "Lifestealer",
+        "mainchar": "Strength"
+    },
+    "20": {
+        "name": "Lycan",
+        "mainchar": "Strength"
+    },
+    "21": {
+        "name": "Magnus",
+        "mainchar": "Strength"
+    },
+    "22": {
+        "name": "Mars",
+        "mainchar": "Strength"
+    },
+    "23": {
+        "name": "Night Stalker",
+        "mainchar": "Strength"
+    },
+    "24": {
+        "name": "Omniknight",
+        "mainchar": "Strength"
+    },
+    "25": {
+        "name": "Phoenix",
+        "mainchar": "Strength"
+    },
+    "26": {
+        "name": "Pudge",
+        "mainchar": "Strength"
+    },
+    "27": {
+        "name": "Sand King",
+        "mainchar": "Strength"
+    },
+    "28": {
+        "name": "Slardar",
+        "mainchar": "Strength"
+    },
+    "29": {
+        "name": "Snapfire",
+        "mainchar": "Strength"
+    },
+    "30": {
+        "name": "Spirit Breaker",
+        "mainchar": "Strength"
+    },
+    "31": {
+        "name": "Sven",
+        "mainchar": "Strength"
+    },
+    "32": {
+        "name": "Tidehunter",
+        "mainchar": "Strength"
+    },
+    "33": {
+        "name": "Timbersaw",
+        "mainchar": "Strength"
+    },
+    "34": {
+        "name": "Tiny",
+        "mainchar": "Strength"
+    },
+    "35": {
+        "name": "Treant Protector",
+        "mainchar": "Strength"
+    },
+    "36": {
+        "name": "Tusk",
+        "mainchar": "Strength"
+    },
+    "37": {
+        "name": "Underlord",
+        "mainchar": "Strength"
+    },
+    "38": {
+        "name": "Undying",
+        "mainchar": "Strength"
+    },
+    "39": {
+        "name": "Wraith King",
+        "mainchar": "Strength"
+    },
+    "40": {
+        "name": "",
+        "mainchar": "Agility"
+    },
+    "41": {
+        "name": "",
+        "mainchar": "Agility"
+    },
+    "42": {
+        "name": "",
+        "mainchar": "Agility"
+    },
+    "43": {
+        "name": "",
+        "mainchar": "Agility"
+    },
+    "44": {
+        "name": "",
+        "mainchar": "Agility"
+    }
+}

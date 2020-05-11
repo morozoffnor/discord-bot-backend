@@ -2,14 +2,21 @@ from flask import Flask, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from flask_marshmallow import Marshmallow
 import os
+from functions.strat import dota
+
 # Init app
 app = Flask(__name__)
 app.config["DEBUG"] = True
 
-
+# Actual logic
 @app.route('/', methods=['GET'])
 def home():
     return jsonify({'msg': 'poshel nahui'})
+
+
+@app.route('/dota/<int:amount>', methods=['GET'])
+def dotaStrat(amount):
+    return dota(amount)
 
 
 # Run Server
