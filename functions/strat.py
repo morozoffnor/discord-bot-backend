@@ -2,6 +2,8 @@ import os
 import json
 import random
 
+# Returns list of given amount of dota heroes
+
 
 def dota(amount=1998):
     if amount == 1998:
