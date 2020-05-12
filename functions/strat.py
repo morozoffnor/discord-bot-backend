@@ -14,7 +14,7 @@ def dota(amount=1998):
             string = "Зачем тебе так много героев, ты че удумал, а, сука?"
             return string
         else:
-            string = "Не, ну я тебе, конечно нарандомлю героев, только я не очень понимаю к чему тебе их целых " + amount + "... \n"
+            string = f"Не, ну я тебе, конечно нарандомлю героев, только я не очень понимаю к чему тебе их целых {amount}... \n"
             for i in range(amount):
                 hero = random.choice(
                     list(open('./data/dota.txt', encoding="utf-8")))
