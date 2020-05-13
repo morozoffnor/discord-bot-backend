@@ -126,3 +126,5 @@ dmypy.json
 Pipfile.lock
 flaskapp.conf
 flaskapp.wsgi
+
+.vscode
