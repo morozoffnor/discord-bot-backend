@@ -1,1 +1,11 @@
-{"name": "jopa", "ownerId": "2", "timestamp": 1589364555.717865, "old": {"name": "jopa", "ownerId": "2", "timestamp": 1589362249.983486}}
+{
+    "name": "jopa",
+    "ownerId": "2",
+    "timestamp": 1589364555.717865,
+    "old": {
+        "name": "jopa",
+        "ownerId": "2",
+        "timestampStart": 1589362249.983486,
+        "timestampEnd": 1
+    }
+}
